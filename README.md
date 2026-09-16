@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Maximiliano Nicolás Valenzano</b><br>
-  Senior Full Stack Software Engineer specialized in architecting and modernizing high-availability enterprise platforms, resilient cloud microservices, real-time distributed systems, and AI-augmented developer workflows.
+  Senior Full Stack Software Engineer specialized in architecting and modernizing high-availability enterprise platforms, resilient cloud microservices, real-time distributed systems, and AI-assisted developer workflows.
 </p>
 
 </div>
@@ -23,7 +23,7 @@
 
 - 🚀 **5+ Years of Enterprise Experience**: Proven track record architecting, modernizing, and scaling high-availability enterprise software solutions across international industrial and commercial environments.
 - ⚡ **Deep Full Stack & Cloud Mastery**: Specialized in **.NET (C#)**, **React / TypeScript**, and **Microsoft Azure Cloud**, with deep domain expertise in real-time processing engines, event-driven systems, and multi-tenant architectures.
-- 🤖 **AI-Augmented Engineering Practitioner**: Active practitioner of AI-assisted software engineering — integrating GitHub Copilot, Claude, and autonomous agentic workflows into daily engineering to accelerate cycle times, perform deep legacy refactoring, and elevate code quality.
+- 🤖 **AI-Assisted Development**: Active integration of GitHub Copilot, Claude, Cursor, and autonomous coding agents into daily engineering workflows for complex refactoring, code generation, rapid debugging, and documentation.
 - 🎓 **Engineering Foundation**: Degree in **Information Systems Engineering** (*Ingeniería en Sistemas de Información*) from **Universidad Tecnológica Nacional (UTN FRRe)** — 100% coursework completed.
 
 ---
@@ -112,9 +112,9 @@
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge" alt="Cursor AI" />
-  <img src="https://img.shields.io/badge/Agentic_Coding_Workflows-7952B3?style=for-the-badge" alt="Agentic Coding" />
+  <img src="https://img.shields.io/badge/AI--Assisted_Development-7952B3?style=for-the-badge" alt="AI-Assisted Development" />
   <img src="https://img.shields.io/badge/Scrum-0288D1?style=for-the-badge" alt="Scrum" />
-  <img src="https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/TDD-1B5E20?style=for-the-badge" alt="TDD" />
 </p>
 
@@ -143,19 +143,6 @@
   - Cisco IT Essentials I & II (Redes y Hardware — UTN FRRe)
   - Especializaciones en Desarrollo Web Moderno, Node.js, React & React Native
   - Metodologías Ágiles & Scrum
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxivalenzano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Maximiliano's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxivalenzano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxivalenzano&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
 
 ---
 
