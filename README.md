@@ -35,9 +35,11 @@
 *Client:* **Tenaris** (Global Energy & Steel Manufacturing Leader) | *Projects:* PnP, SPT & FUT
 
 - **Mission-Critical Real-Time Systems**: Architected and delivered real-time analytical web applications for global plant optimization, developing simulation engines, dynamic load balancing, and on-time delivery (OTD) early warning mechanisms.
+- **Frontend Architecture & Reusable Patterns**: Defined scalable frontend architecture and reusable component patterns across multiple business modules, accelerating development velocity and ensuring design consistency.
 - **Technical Leadership & Modernization**: Led frontend modernization to React and TypeScript with Vite; spearheaded backend migration from .NET 5 to .NET 8, achieving significant latency reductions and optimizing cloud compute consumption.
-- **Enterprise Architecture**: Designed and implemented multi-tenant architectures featuring secure data isolation across international manufacturing plants, role-based access control (RBAC), and deep enterprise integrations with SAP.
-- **AI-Accelerated Delivery**: Embedded GitHub Copilot and Claude into core engineering workflows to accelerate delivery velocity and systematically eliminate legacy technical debt.
+- **Enterprise Architecture & Security**: Designed and implemented multi-tenant architectures featuring secure data isolation across international manufacturing plants, role-based access control (RBAC), and deep enterprise integrations with SAP.
+- **Architecture Decisions & Code Governance**: Actively drove architectural decision-making, rigorous code reviews, and proactive technical refactoring to elevate software craftsmanship and maintain high code quality standards.
+- **AI-Accelerated Delivery**: Embedded GitHub Copilot and Claude into core engineering workflows to accelerate delivery velocity and streamline complex legacy refactorings.
 - **Tech Stack**: `.NET 8`, `C#`, `React`, `TypeScript`, `Vite`, `Zustand`, `Material UI`, `SQL Server`, `PostgreSQL`, `Azure DevOps`, `Docker`.
 
 #### 🏢 **Tupaca S.A.S.** — *Full Stack Software Developer*
