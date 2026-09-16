@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Hi there, I'm Maximiliano Valenzano 👋
 ### Software Engineer | Full Stack & DevOps Enthusiast
@@ -80,7 +80,7 @@
 | [**yo-cruzo-client**](https://github.com/maxivalenzano/yo-cruzo-client) | Cross-platform mobile carpooling application connecting daily commuters between Resistencia and Corrientes with live updates. | `React Native`, `Expo`, `WebSockets`, `Firebase`, `Mobile UX` | [📂 Repo](https://github.com/maxivalenzano/yo-cruzo-client) |
 | [**disney-trip-planner**](https://github.com/maxivalenzano/disney-trip-planner) | Interactive trip planner designed to organize itineraries, reservations, and park schedules with an intuitive modern UI. | `Next.js`, `TypeScript`, `Tailwind CSS`, `Supabase`, `Vercel` | [📂 Repo](https://github.com/maxivalenzano/disney-trip-planner) <br> [🚀 Live Demo](https://v0-disney-trip-planner.vercel.app) |
 | [**IA-Algoritmo-C4.5**](https://github.com/maxivalenzano/IA-Algoritmo-C4.5) | Educational machine learning implementation of the C4.5 decision tree algorithm computing entropy and information gain with interactive tree visualization. | `JavaScript`, `React`, `Machine Learning`, `React-D3-Tree`, `C4.5 Algorithm` | [📂 Repo](https://github.com/maxivalenzano/IA-Algoritmo-C4.5) |
-| [**elecciones-2023**](https://github.com/maxivalenzano/elecciones-2023) | Real-time election data visualization dashboard displaying live scrutiny metrics, voting trends, and interactive charts. | `React 18`, `Firebase`, `Material-UI`, `Data Visualization` | [📂 Repo](https://github.com/maxivalenzano/elecciones-2023) <br> [🚀 Live Demo](https://elecciones-2023.vercel.app) |
+| [**elecciones-2025**](https://github.com/maxivalenzano/elecciones-2025) | Comprehensive electoral management SaaS featuring voter roll search, poll watcher coordination, real-time scrutiny, and custom Supabase PLpgSQL functions. | `Next.js 14`, `TypeScript`, `Supabase`, `PostgreSQL`, `Tailwind CSS`, `Recharts`, `Vercel` | [📂 Repo](https://github.com/maxivalenzano/elecciones-2025) <br> [🚀 Live Demo](https://elecciones-siete-palmas.vercel.app) |
 
 ---
 
